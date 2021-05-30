@@ -1,4 +1,4 @@
-# Практическая работа (PHPDEV-14 task 7.12)
+# Практическая работа модуля 8 (PHPDEV-14 task 1-10)
 
 #### License: [MIT](./license_ru.md)
 
