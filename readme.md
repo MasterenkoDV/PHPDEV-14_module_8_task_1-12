@@ -16,5 +16,5 @@
 
 ## Инструкция по использованию проекта:
 
-- Удобная форма для преверки практических заданий [**здесь**](https://www.figma.com/file/wuEfTzHrmPRCCTgzbLqPbN/Templates-%233.-More-on-Figma.info-(Copy)?node-id=1%3A2)
+- Удобная форма для преверки практических заданий [**здесь**](https://masterenkodv.github.io/PHPDEV-14_module_8_task_1-12/)
 
